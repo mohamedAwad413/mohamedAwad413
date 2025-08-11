@@ -19,11 +19,19 @@
 
 ---
 
-## 🚀 Featured Projects
-| 💻 Project | 🔍 Description |
-|------------|---------------|
-| [💳 Fraud Detection](https://github.com/mohamedAwad413/MLprojects/tree/main/Credit%20Card%20Fraud%20Detection) | XGBoost model detecting fraud 🚨 with **+15% accuracy** & **-20% false positives** |
-| [🏠 House Prices](https://github.com/mohamedAwad413/MLprojects/tree/main/House%20Prices%20Prediction) | Regression model predicting prices 🏡 with advanced feature engineering |
+## 🛠 My Skills & Tools
+<p align="center">
+  <img src="https://img.icons8.com/color/96/000000/python.png" width="55" alt="Python"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="55" alt="NumPy"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="55" alt="Pandas"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="55" alt="Matplotlib"/>
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80" alt="Seaborn"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="75" alt="scikit-learn"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="55" alt="TensorFlow"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="55" alt="PyTorch"/>
+  <img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" width="55" alt="XGBoost"/>
+  <img src="https://lightgbm.readthedocs.io/en/latest/_images/LightGBM_logo_black_text.svg" width="90" alt="LightGBM"/>
+</p>
 
 ---
 
