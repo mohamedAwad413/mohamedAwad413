@@ -22,8 +22,8 @@
 ## 🚀 Featured Projects
 | 💻 Project | 🔍 Description |
 |------------|---------------|
-| [💳 Fraud Detection]([https://github.com/mohamedAwad413/MLprojects/blob/main/house-prices-advanced-regression-techniques.ipynb](https://github.com/mohamedAwad413/MLprojects/blob/main/credit-card-fraud-detection-xgboost.ipynb)) | XGBoost model detecting fraud 🚨 with **+15% accuracy** & **-20% false positives** |
-| [🏠 House Prices]([https://github.com/mohamedAwad413/MLprojects/tree/main/House%20Prices%20Prediction](https://github.com/mohamedAwad413/MLprojects/blob/main/house-prices-advanced-regression-techniques.ipynb)) | Regression model predicting prices 🏡 with advanced feature engineering |
+| [💳 Fraud Detection]([##]) | XGBoost model detecting fraud 🚨 with **+15% accuracy** & **-20% false positives** |
+| [🏠 House Prices]([##]) | Regression model predicting prices 🏡 with advanced feature engineering |
 
 ---
 
