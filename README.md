@@ -21,16 +21,16 @@
 
 ## 🛠 My Skills & Tools
 <p align="center">
-  <img src="https://img.icons8.com/color/96/000000/python.png" width="55" alt="Python"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="55" alt="NumPy"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="55" alt="Pandas"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="55" alt="Matplotlib"/>
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80" alt="Seaborn"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="75" alt="scikit-learn"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="55" alt="TensorFlow"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="55" alt="PyTorch"/>
-  <img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" width="55" alt="XGBoost"/>
-  <img src="https://lightgbm.readthedocs.io/en/latest/_images/LightGBM_logo_black_text.svg" width="90" alt="LightGBM"/>
+  <img src="https://i.postimg.cc/3wH5mqdk/python-bounce.gif" width="55" alt="Python"/>
+  <img src="https://i.postimg.cc/g2kQ5R3x/numpy-bounce.gif" width="55" alt="NumPy"/>
+  <img src="https://i.postimg.cc/y6qhShHq/pandas-bounce.gif" width="55" alt="Pandas"/>
+  <img src="https://i.postimg.cc/L5wd9Q3h/matplotlib-bounce.gif" width="55" alt="Matplotlib"/>
+  <img src="https://i.postimg.cc/1t14LmfJ/seaborn-bounce.gif" width="80" alt="Seaborn"/>
+  <img src="https://i.postimg.cc/L5XcdmhD/sklearn-bounce.gif" width="75" alt="scikit-learn"/>
+  <img src="https://i.postimg.cc/g0dTQZB6/tensorflow-bounce.gif" width="55" alt="TensorFlow"/>
+  <img src="https://i.postimg.cc/dV8cZzCQ/pytorch-bounce.gif" width="55" alt="PyTorch"/>
+  <img src="https://i.postimg.cc/L6b2frJf/xgboost-bounce.gif" width="55" alt="XGBoost"/>
+  <img src="https://i.postimg.cc/KzvW0SMr/lightgbm-bounce.gif" width="90" alt="LightGBM"/>
 </p>
 
 ---
