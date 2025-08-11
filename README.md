@@ -1,16 +1,29 @@
-## Hi there 👋
+# 🤖 Mohamed Awad — Machine Learning Engineer
 
-<!--
-**mohamedAwad413/mohamedAwad413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about turning data into intelligent solutions using **Machine Learning** and **Data Science**.  
+📍 Always exploring ways to optimize models, clean data, and build impactful AI applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- 🔭 Currently working on: Predictive modeling & NLP projects.
+- 🎯 Focus: Regression, Classification, Clustering, NLP, Model Optimization.
+- 📚 Learning: Deep Learning & Computer Vision.
+- 📫 Reach me at: [LinkedIn](linkedin.com/in/mohamed-awad-p434) 
+---
+
+## 🛠 Tech Stack
+
+**Languages:**  
+`Python` `SQL`
+
+**ML/DL Frameworks:**  
+`scikit-learn` `TensorFlow` `PyTorch`  
+
+**Data Processing & Visualization:**  
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `Plotly`
+
+**Tools:**  
+`Git` `GitHub` `Jupyter Notebook` `Google Colab`
+
+---
