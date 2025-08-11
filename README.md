@@ -12,7 +12,7 @@
 
 ---
 
-<div style="background: linear-gradient(90deg, rgba(0,201,255,0.1) 0%, rgba(146,254,157,0.1) 100%); padding: 15px; border-radius: 10px;">
+<div style="background: linear-gradient(90deg, rgba(0,201,255,0.08) 0%, rgba(146,254,157,0.08) 100%); padding: 15px; border-radius: 10px;">
 
 ## 🌟 About Me
 💡 **ML Engineer** passionate about building intelligent models that solve real-world problems.  
@@ -23,7 +23,7 @@
 
 ---
 
-<div style="background: linear-gradient(90deg, rgba(0,201,255,0.1) 0%, rgba(146,254,157,0.1) 100%); padding: 15px; border-radius: 10px;">
+<div style="background: linear-gradient(90deg, rgba(0,201,255,0.08) 0%, rgba(146,254,157,0.08) 100%); padding: 15px; border-radius: 10px;">
 
 ## 🚀 Featured Projects
 | 💻 Project | 🔍 Description |
@@ -35,11 +35,28 @@
 
 ---
 
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohamedAwad413&theme=onedark&row=1&column=6" alt="Trophies"/>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohamedAwad413&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedAwad413&theme=tokyonight" height="150"/>
 </p>
+
+---
+
+## 🌱 Contribution Activity
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamedAwad413&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 💬 Favorite Quote
+> "The best way to predict the future is to invent it." – Alan Kay
 
 ---
 
