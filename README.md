@@ -22,8 +22,8 @@
 ## 🚀 Featured Projects
 | 💻 Project | 🔍 Description |
 |------------|---------------|
-| [💳 Fraud Detection]([##]) | XGBoost model detecting fraud 🚨 with **+15% accuracy** & **-20% false positives** |
-| [🏠 House Prices]([##]) | Regression model predicting prices 🏡 with advanced feature engineering |
+| [💳 Fraud Detection]([https://github.com/mohamedAwad413/MLprojects.git]) | XGBoost model detecting fraud 🚨 with **+15% accuracy** & **-20% false positives** |
+| [🏠 House Prices]([https://github.com/mohamedAwad413/MLprojects.git]) | Regression model predicting prices 🏡 with advanced feature engineering |
 
 ---
 
