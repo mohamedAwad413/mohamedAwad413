@@ -1,12 +1,12 @@
-<!-- Gradient Banner -->
+<!-- Professional Gradient Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,100:00D9F5&height=200&section=header&text=Mohamed%20Awad%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C9FF,100:92FE9D&text=🤖%20Mohamed%20Awad%20|%20Machine%20Learning%20Engineer&fontColor=ffffff&fontSize=32&fontAlignY=38&desc=Turning%20Data%20into%20Intelligent%20Solutions%20🚀&descAlignY=55&descAlign=50"/>
 </p>
 
 <!-- Dynamic Typing -->
 <p align="center">
   <a href="https://github.com/mohamedAwad413">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&width=500&lines=Machine+Learning+Engineer;Data+Science+Enthusiast;Python+%7C+ML+%7C+DL+%7C+AI;Always+Learning+New+Things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7F7&center=true&width=550&lines=Machine+Learning+Engineer;Data+Science+Enthusiast;Python%20%7C%20ML%20%7C%20DL%20%7C%20AI;Always%20Learning%20New%20Things" alt="Typing SVG" />
   </a>
 </p>
 
