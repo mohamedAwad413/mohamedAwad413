@@ -1,6 +1,6 @@
-<!-- Rounded Gradient Banner -->
+<!-- Rounded Gradient Banner (Dark Mode) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=220&color=0:00C9FF,100:92FE9D&text=🤖%20Mohamed%20Awad%20|%20Machine%20Learning%20Engineer&fontColor=ffffff&fontSize=28&fontAlignY=38&desc=Turning%20Data%20into%20Intelligent%20Solutions%20🚀&descAlignY=58&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=220&color=0:0f2027,100:2c5364&text=🤖%20Mohamed%20Awad%20|%20Machine%20Learning%20Engineer&fontColor=ffffff&fontSize=28&fontAlignY=38&desc=Turning%20Data%20into%20Intelligent%20Solutions%20🚀&descAlignY=58&descAlign=50"/>
 </p>
 
 <!-- Dynamic Typing -->
@@ -12,26 +12,18 @@
 
 ---
 
-<div style="background: linear-gradient(90deg, rgba(0,201,255,0.1) 0%, rgba(146,254,157,0.1) 100%); padding: 15px; border-radius: 10px;">
-
 ## 🌟 About Me
 💡 **ML Engineer** passionate about building intelligent models that solve real-world problems.  
 ⚡ Skilled in **Python, scikit-learn, XGBoost, TensorFlow, PyTorch**.  
 📍 Based in Egypt | 🌍 Open to global opportunities.  
 
-</div>
-
 ---
-
-<div style="background: linear-gradient(90deg, rgba(0,201,255,0.1) 0%, rgba(146,254,157,0.1) 100%); padding: 15px; border-radius: 10px;">
 
 ## 🚀 Featured Projects
 | 💻 Project | 🔍 Description |
 |------------|---------------|
 | [💳 Fraud Detection](https://github.com/mohamedAwad413/MLprojects/tree/main/Credit%20Card%20Fraud%20Detection) | XGBoost model detecting fraud 🚨 with **+15% accuracy** & **-20% false positives** |
 | [🏠 House Prices](https://github.com/mohamedAwad413/MLprojects/tree/main/House%20Prices%20Prediction) | Regression model predicting prices 🏡 with advanced feature engineering |
-
-</div>
 
 ---
 
