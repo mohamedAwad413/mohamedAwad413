@@ -19,18 +19,18 @@
 
 ---
 
-## 🛠 My Skills & Tools
+## 🛠 My Skills & Tools (Glow Edition ✨)
 <p align="center">
-  <img src="https://i.postimg.cc/3wH5mqdk/python-bounce.gif" width="55" alt="Python"/>
-  <img src="https://i.postimg.cc/g2kQ5R3x/numpy-bounce.gif" width="55" alt="NumPy"/>
-  <img src="https://i.postimg.cc/y6qhShHq/pandas-bounce.gif" width="55" alt="Pandas"/>
-  <img src="https://i.postimg.cc/L5wd9Q3h/matplotlib-bounce.gif" width="55" alt="Matplotlib"/>
-  <img src="https://i.postimg.cc/1t14LmfJ/seaborn-bounce.gif" width="80" alt="Seaborn"/>
-  <img src="https://i.postimg.cc/L5XcdmhD/sklearn-bounce.gif" width="75" alt="scikit-learn"/>
-  <img src="https://i.postimg.cc/g0dTQZB6/tensorflow-bounce.gif" width="55" alt="TensorFlow"/>
-  <img src="https://i.postimg.cc/dV8cZzCQ/pytorch-bounce.gif" width="55" alt="PyTorch"/>
-  <img src="https://i.postimg.cc/L6b2frJf/xgboost-bounce.gif" width="55" alt="XGBoost"/>
-  <img src="https://i.postimg.cc/KzvW0SMr/lightgbm-bounce.gif" width="90" alt="LightGBM"/>
+  <img src="https://i.postimg.cc/QMhZ3xT7/python-glow.gif" width="55" alt="Python"/>
+  <img src="https://i.postimg.cc/7ZK0n0Pf/numpy-glow.gif" width="55" alt="NumPy"/>
+  <img src="https://i.postimg.cc/WpCqkDQ0/pandas-glow.gif" width="55" alt="Pandas"/>
+  <img src="https://i.postimg.cc/T3rpTtRk/matplotlib-glow.gif" width="55" alt="Matplotlib"/>
+  <img src="https://i.postimg.cc/ZnLyHcTP/seaborn-glow.gif" width="80" alt="Seaborn"/>
+  <img src="https://i.postimg.cc/L8y1GJmr/sklearn-glow.gif" width="75" alt="scikit-learn"/>
+  <img src="https://i.postimg.cc/HxvF4F3m/tensorflow-glow.gif" width="55" alt="TensorFlow"/>
+  <img src="https://i.postimg.cc/NjW3n0p6/pytorch-glow.gif" width="55" alt="PyTorch"/>
+  <img src="https://i.postimg.cc/BnZ5ghSP/xgboost-glow.gif" width="55" alt="XGBoost"/>
+  <img src="https://i.postimg.cc/4y9h3xwz/lightgbm-glow.gif" width="90" alt="LightGBM"/>
 </p>
 
 ---
