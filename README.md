@@ -1,6 +1,6 @@
-<!-- Rounded Gradient Banner -->
+<!-- Rounded Gradient Banner (Dark Mode) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=220&color=0:00C9FF,100:92FE9D&text=🤖%20Mohamed%20Awad%20|%20Machine%20Learning%20Engineer&fontColor=ffffff&fontSize=28&fontAlignY=38&desc=Turning%20Data%20into%20Intelligent%20Solutions%20🚀&descAlignY=58&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=220&color=0:0f2027,100:2c5364&text=🤖%20Mohamed%20Awad%20|%20Machine%20Learning%20Engineer&fontColor=ffffff&fontSize=28&fontAlignY=38&desc=Turning%20Data%20into%20Intelligent%20Solutions%20🚀&descAlignY=58&descAlign=50"/>
 </p>
 
 <!-- Dynamic Typing -->
