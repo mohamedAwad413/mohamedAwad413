@@ -1,15 +1,6 @@
-<!-- Rounded Gradient Banner with ML Animated Icons -->
+<!-- Rounded Gradient Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&height=220&color=0:00C9FF,100:92FE9D&text=🤖%20Mohamed%20Awad%20|%20Machine%20Learning%20Engineer&fontColor=ffffff&fontSize=28&fontAlignY=38&desc=Turning%20Data%20into%20Intelligent%20Solutions%20🚀&descAlignY=58&descAlign=50"/>
-</p>
-
-<!-- Animated ML Icons Row -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/python.svg" width="50" alt="Python"/>
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50" alt="TensorFlow"/>
-  <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="50" alt="PyTorch"/>
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50" alt="scikit-learn"/>
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="50" alt="XGBoost"/>
 </p>
 
 <!-- Dynamic Typing -->
@@ -19,19 +10,26 @@
   </a>
 </p>
 
+<!-- ML/DL Libraries Icons -->
+<p align="center">
+  <img src="https://img.icons8.com/color/96/000000/python.png" width="55" alt="Python"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="55" alt="NumPy"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="55" alt="Pandas"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="55" alt="Matplotlib"/>
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80" alt="Seaborn"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="75" alt="scikit-learn"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="55" alt="TensorFlow"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="55" alt="PyTorch"/>
+  <img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" width="55" alt="XGBoost"/>
+  <img src="https://lightgbm.readthedocs.io/en/latest/_images/LightGBM_logo_black_text.svg" width="90" alt="LightGBM"/>
+</p>
+
 ---
 
 ## 🌟 About Me
 💡 **ML Engineer** passionate about building intelligent models that solve real-world problems.  
 ⚡ Skilled in **Python, scikit-learn, XGBoost, TensorFlow, PyTorch**.  
 📍 Based in Egypt | 🌍 Open to global opportunities.  
-
----
-
-## 🛠 Tech Stack
-**Languages & Tools**  
-🐍 Python | 🗄 SQL | 📊 Pandas, NumPy | 📈 Matplotlib, Seaborn, Plotly  
-🧠 scikit-learn | 🔥 PyTorch | 🟧 TensorFlow | 🌟 XGBoost, LightGBM
 
 ---
 
