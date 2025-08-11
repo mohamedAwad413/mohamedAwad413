@@ -1,10 +1,14 @@
-<!-- Banner -->
+<!-- Gradient Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,100:00D9F5&height=200&section=header&text=Mohamed%20Awad%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<h1 align="center">🤖 Mohamed Awad</h1>
-<h3 align="center">🚀 Machine Learning Engineer | 📊 Data Science Enthusiast</h3>
+<!-- Dynamic Typing -->
+<p align="center">
+  <a href="https://github.com/mohamedAwad413">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&width=500&lines=Machine+Learning+Engineer;Data+Science+Enthusiast;Python+%7C+ML+%7C+DL+%7C+AI;Always+Learning+New+Things" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
