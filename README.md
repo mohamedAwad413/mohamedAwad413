@@ -1,32 +1,28 @@
 <h1 align="center">👋 Hi, I'm Mohamed Awad</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=4CAF50&center=true&vCenter=true&width=600&lines=Aspiring+Machine+Learning+Engineer;Data+Enthusiast;Python+Developer;Always+Learning+New+Things" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=2196F3&center=true&vCenter=true&width=600&lines=Aspiring+Data+Engineer;ETL+Specialist;Big+Data+Enthusiast;Python+%26+SQL+Developer" alt="Typing Animation" />
 </p>
 
 ---
 
 ## 🧠 Skills  
 
-💻 **Languages & Tools**  
-<p>
+💻 **Data Engineering Stack** <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
 ---
 
 ## 🎯 Goals  
 
-- 🌱 Continuously improving my **AI/ML skills**  
-- 📚 Sharing knowledge & helping others learn  
-- 🤝 Contributing to **open-source projects**  
-
----
+- 🏗️ Building scalable **Data Pipelines & ETL processes** - ☁️ Master Cloud Data Warehousing (**AWS/Azure/GCP**)  
+- 🛠️ Optimizing query performance and **Data Modeling** - 🤝 Contributing to **Open Source Data Tools** ---
 
 ## 📫 Connect with Me  
 
@@ -38,4 +34,4 @@
 
 ---
 
-⭐ **Follow me to stay updated on my future projects!**
+⭐ **Follow me to see how I build robust data infrastructures!**
