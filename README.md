@@ -1,4 +1,4 @@
-# 🚀 Modern Data Stack | Data Engineering Portfolio
+# Data Engineer | Modern Data Stack
 
 Welcome! I'm a **Data Engineer** specializing in designing and building **scalable, reliable, and production-grade data pipelines** using the **Modern Data Stack (MDS)**.
 
