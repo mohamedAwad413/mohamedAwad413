@@ -35,7 +35,7 @@ I am a Data Engineering student passionate about transforming raw data into acti
 
 ### 🌐 Connect With Me
 
-[LinkedIn]([https://linkedin.com/in/YOUR_LINKEDIN_URL](https://www.linkedin.com/in/mohamed-awad-p434/)) | [GitHub]([https://github.com/YOUR_GITHUB_USERNAME](https://github.com/mohamedAwad413))
+[LinkedIn](https://www.linkedin.com/in/mohamed-awad-p434/) | [GitHub](https://github.com/mohamedAwad413)
 
 ---
 
