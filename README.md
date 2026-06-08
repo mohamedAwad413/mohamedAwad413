@@ -1,137 +1,44 @@
 <div align="center">
 
-# 👋 Hi, I'm Mohamed
+# Hi, I'm Mohamed Awad 👋
+### Aspiring Data Engineer
 
-### 🚀 Azure Data Engineer | Data Engineering Enthusiast
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Azure+Data+Engineer;Building+Scalable+Data+Pipelines;SQL+%7C+PySpark+%7C+Databricks;Cloud+%26+Big+Data+Enthusiast" />
-
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Building+Scalable+Data+Pipelines;SQL+%7C+PySpark+%7C+Databricks;Azure+Cloud+Enthusiast" />
 
 ---
 
-# 💫 About Me
-
-💡 Passionate about building scalable and modern data platforms using the Azure ecosystem.
-
-🔹 Focused on:
-- Data Engineering
-- ETL / ELT Pipelines
-- Cloud Data Solutions
-- Big Data Processing
-- Data Warehousing
-
-🔹 Interested in:
-- Distributed Systems
-- Modern Lakehouse Architecture
-- Real-Time Data Streaming
-- Analytics Engineering
+### 🚀 About Me
+I am a Data Engineering student passionate about transforming raw data into actionable insights using the Azure ecosystem. I focus on building efficient ETL/ELT pipelines and scalable data architectures.
 
 ---
 
-# ⚡ Tech Stack
+### 🛠 Tech Stack
 
-<div align="center">
+**Data Engineering:**
+![SQL](https://img.shields.io/badge/SQL-000?style=flat&logo=postgresql)
+![PySpark](https://img.shields.io/badge/PySpark-000?style=flat&logo=apachespark)
+![Databricks](https://img.shields.io/badge/Databricks-000?style=flat&logo=databricks)
 
-## ☁️ Azure Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=azure" />
-</p>
-
-</div>
-
-### 🏗️ Data Engineering
-![ETL](https://img.shields.io/badge/ETL-0078D4?style=for-the-badge)
-![Data Warehouse](https://img.shields.io/badge/Data_Warehouse-0A66C2?style=for-the-badge)
-![Data Modeling](https://img.shields.io/badge/Data_Modeling-1E90FF?style=for-the-badge)
-![OLAP](https://img.shields.io/badge/OLAP-4169E1?style=for-the-badge)
-![Star Schema](https://img.shields.io/badge/Star_Schema-4682B4?style=for-the-badge)
+**Cloud & Tools:**
+![Azure](https://img.shields.io/badge/Azure-000?style=flat&logo=microsoftazure)
+![Git](https://img.shields.io/badge/Git-000?style=flat&logo=git)
+![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python)
 
 ---
 
-### ⚙️ Tools & Technologies
+### 📂 Featured Projects
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,git,github" />
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure_Synapse-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-</p>
+- **Retail Data Pipeline:** Built an end-to-end ETL process using Azure Data Factory and Databricks.
+- **Real-Time Streaming:** Designed a Lakehouse-style architecture for live data processing.
 
 ---
 
-# 📂 Featured Projects
+### 🌐 Connect With Me
 
-## 🔹 Retail Data Engineering Pipeline
-
-✔️ Built scalable ETL pipelines using Azure Data Factory  
-✔️ Processed large datasets using Databricks & PySpark  
-✔️ Implemented Bronze / Silver / Gold architecture  
-✔️ Created analytical datasets for reporting and dashboards  
+[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_URL) | [GitHub](https://github.com/YOUR_GITHUB_USERNAME)
 
 ---
 
-## 🔹 Real-Time Streaming Pipeline
-
-✔️ Processed streaming data using Spark Structured Streaming  
-✔️ Designed scalable real-time transformation workflows  
-✔️ Built modern Lakehouse-style architecture  
-
----
-
-# 📚 Currently Learning
-
-- 🚀 Advanced Spark Optimization
-- ⚡ Delta Lake
-- 🏗️ Medallion Architecture
-- ☁️ Azure Cloud Solutions
-- 📊 Modern Data Lakehouse Concepts
-
----
-
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Always learning and building in the world of Data Engineering
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+*Always learning and building.*
 
 </div>
